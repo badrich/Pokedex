@@ -10,7 +10,7 @@ An amazing Pokedex Swift App counting 718 pokemons
 </a>
 
 <a href="https://cloud.githubusercontent.com/assets/6792118/11445058/fb5a1156-9520-11e5-83fb-57d6aec0d7f4.png">
-<img src="(https://cloud.githubusercontent.com/assets/6792118/11445058/fb5a1156-9520-11e5-83fb-57d6aec0d7f4.png" align="right" height="250" width="600" >
+<img src="https://cloud.githubusercontent.com/assets/6792118/11445058/fb5a1156-9520-11e5-83fb-57d6aec0d7f4.png" align="center" height="250" width="600" >
 </a>
 
 
